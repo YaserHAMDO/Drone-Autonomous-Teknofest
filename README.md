@@ -1,7 +1,7 @@
 # Autonomous Drone Teknofest
 
 <p align="left">
-  <img alt="f" src="https://github.com/user-attachments/assets/ec8bfbe1-acc1-4e9e-9585-b4c5a71acc39" width="70%">
+  <img alt="f" src="https://github.com/user-attachments/assets/ec8bfbe1-acc1-4e9e-9585-b4c5a71acc39" width="60%">
 </p>
 &nbsp;
 &nbsp;
@@ -32,7 +32,8 @@ It decodes these codes mid-flight to perform tasks such as turning right, landin
 Watch the Project Videos:<br>
 [Video1](https://drive.google.com/file/d/1GBPhsbzGlLFlOmUSljkECcDyDb4qPo31/view?usp=sharing)<br>
 [Video2](https://drive.google.com/file/d/1WEabeZvXgdAXFX4i-8zZBZmEATs1fd6b/view?usp=sharing)<br>
-[View the Photo Gallery](https://drive.google.com/drive/folders/1OsfUKaB8qLfG_FDLtZRbZnomE_hOjzYP?usp=sharing)
+View the Photo Gallery:<br>
+[Gallery](https://drive.google.com/drive/folders/1OsfUKaB8qLfG_FDLtZRbZnomE_hOjzYP?usp=sharing)
 
 
 
